@@ -1,0 +1,4 @@
+SUCCESS
+SUCCESS
+SUCCESS  # primary again, secondary empty
+FAIL     # both empty

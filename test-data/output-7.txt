@@ -1,0 +1,4 @@
+SUCCESS
+SUCCESS  # only secondary succeeded
+SUCCESS
+SUCCESS  # only primary succeeded
