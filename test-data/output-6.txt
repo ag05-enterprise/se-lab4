@@ -1,0 +1,3 @@
+SUCCESS
+SUCCESS
+FAIL     # both stores used up by ALL
